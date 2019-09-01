@@ -1,0 +1,11 @@
+first line........
+
+1. staging - add
+
+2. commiting
+
+3. pushing
+
+git status
+
+git log
